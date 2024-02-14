@@ -1,2 +1,2 @@
 # My_Project
-for learning how to use getHub
+for learning how to use gitHub
